@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=d8f7e6&height=300&section=header&text=Minju%20Archive&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=d8f7e6&height=300&section=header&text=Minju%20Archive&fontSize=90)
 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✦ 인삿말 ✦   </h2>  
